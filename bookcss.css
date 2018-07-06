@@ -26,11 +26,20 @@ body
 	background-size:100% 100%;
 	}
 .navbar{
-	margin-top: 0px;
-}
-.navitem{
 	margin-top: 5px;
 }
+.nav-item
+{
+text-align: right;
+	margin-top: 5px;
+}
+.nav-link
+{
+	padding-right: 40px;
+	text-align: right;
+	margin-top: 5px;	
+}
+
 /*#header
 {
 height:40px;
@@ -75,5 +84,10 @@ background:#404040;
 }
 .row
 {
-	text-align: justify;
+		text-align: justify;
+}
+.home
+{
+background-color: blueviolet;
+background-size:100% 100%;
 }
