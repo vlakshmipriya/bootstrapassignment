@@ -4,7 +4,7 @@ padding:0px;
 }
 .jumbotron
 {
-	height:1px;
+	height:80px;
 	background-color:rosybrown;
 	margin-bottom: 0px;
 	padding-left: 1px;
@@ -30,7 +30,7 @@ body
 }
 .nav-item
 {
-text-align: right;
+text-align: left;
 	margin-top: 5px;
 }
 .nav-link
@@ -38,6 +38,11 @@ text-align: right;
 	padding-right: 40px;
 	text-align: right;
 	margin-top: 5px;	
+}
+.navbar-nav
+{
+	text-decoration-color: black;
+	text-align: right;
 }
 
 /*#header
